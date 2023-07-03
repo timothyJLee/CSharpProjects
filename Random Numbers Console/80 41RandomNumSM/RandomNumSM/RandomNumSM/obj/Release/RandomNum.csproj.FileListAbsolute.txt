@@ -1,0 +1,5 @@
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\RandomNum\bin\Release\RandomNum.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\RandomNum\bin\Release\RandomNum.pdb
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\RandomNum\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\RandomNum\obj\Release\RandomNum.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\RandomNum\obj\Release\RandomNum.pdb

@@ -1,0 +1,7 @@
+6
+Fred Flinstone;83728
+George Jetson;38829
+Yogi Bear;98192
+Huckleberry Hound;72635
+Wally Gator;54281
+Magilla Gorilla;63721

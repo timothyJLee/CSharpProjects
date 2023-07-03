@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RandomNum">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\RandomNum.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\RandomNum.suo">
+</Property><Property Name="Date" Value="Wednesday, October 26, 2011">
+</Property><Property Name="Time" Value="21:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RandomNum.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\Backup\RandomNum.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RandomNum.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\Backup\RandomNum.suo">
+</Event><Event ErrorLevel="0" Project="RandomNum" Source="RandomNum\RandomNum.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\Backup\RandomNum\RandomNum.csproj">
+</Event><Event ErrorLevel="0" Project="RandomNum" Source="RandomNum\RandomNum.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\Backup\RandomNum\RandomNum.csproj.user">
+</Event><Event ErrorLevel="0" Project="RandomNum" Source="RandomNum\Program.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\Backup\RandomNum\Program.cs">
+</Event><Event ErrorLevel="0" Project="RandomNum" Source="RandomNum\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\50 41RandomNum\RandomNum\Backup\RandomNum\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RandomNum" Source="RandomNum\RandomNum.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RandomNum" Source="RandomNum\RandomNum.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RandomNum.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RandomNum.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RandomNum" Source="RandomNum\RandomNum.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

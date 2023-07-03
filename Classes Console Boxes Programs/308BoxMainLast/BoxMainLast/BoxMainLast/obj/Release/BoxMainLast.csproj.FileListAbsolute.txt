@@ -1,0 +1,33 @@
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\BoxMainLast\bin\Release\BoxMainLast.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\BoxMainLast\bin\Release\BoxMainLast.pdb
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\BoxMainLast\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Documents and Settings\kaminski\Desktop\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\kaminski\Desktop\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+E:\BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+E:\BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\308BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\308BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\BoxMainLast.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\308BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\308BoxMainLast\BoxMainLast\BoxMainLast\bin\Release\BoxMainLast.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\308BoxMainLast\BoxMainLast\BoxMainLast\obj\Release\ResolveAssemblyReference.cache

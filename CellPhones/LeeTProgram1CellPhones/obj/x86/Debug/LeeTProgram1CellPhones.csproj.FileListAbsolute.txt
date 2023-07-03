@@ -1,0 +1,9 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\bin\Debug\LeeTProgram1CellPhones.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\bin\Debug\LeeTProgram1CellPhones.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.phoneForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.csproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.displayForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram1CellPhones\LeeTProgram1CellPhones\obj\x86\Debug\LeeTProgram1CellPhones.csprojResolveAssemblyReference.cache

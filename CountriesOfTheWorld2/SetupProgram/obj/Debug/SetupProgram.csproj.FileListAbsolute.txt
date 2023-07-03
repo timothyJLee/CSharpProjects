@@ -1,0 +1,16 @@
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SetupProgram.exe.config
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SetupProgram.exe
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SetupProgram.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\obj\Debug\SetupProgram.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\obj\Debug\SetupProgram.exe
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SetupProgram\obj\Debug\SetupProgram.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SetupProgram.exe.config
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SetupProgram.exe
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SetupProgram.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\bin\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\obj\Debug\SetupProgram.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\obj\Debug\SetupProgram.exe
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SetupProgram\obj\Debug\SetupProgram.pdb

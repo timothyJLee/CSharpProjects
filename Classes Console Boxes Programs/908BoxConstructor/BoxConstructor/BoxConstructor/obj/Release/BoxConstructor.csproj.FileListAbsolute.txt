@@ -1,0 +1,34 @@
+C:\Documents and Settings\kaminski\Desktop\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.exe
+C:\Documents and Settings\kaminski\Desktop\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.pdb
+C:\Documents and Settings\kaminski\Desktop\BoxConstructor\BoxConstructor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\kaminski\Desktop\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS282  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS282  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 3 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 3 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\908BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\908BoxConstructor\BoxConstructor\BoxConstructor\bin\Release\BoxConstructor.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\908BoxConstructor\BoxConstructor\BoxConstructor\obj\Release\BoxConstructor.pdb

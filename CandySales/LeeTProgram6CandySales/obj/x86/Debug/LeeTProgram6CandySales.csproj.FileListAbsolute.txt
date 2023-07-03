@@ -1,0 +1,11 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\bin\Debug\LeeTProgram6CandySales.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\bin\Debug\LeeTProgram6CandySales.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.CandySalesForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.csproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.csprojResolveAssemblyReference.cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.ManagementTotalsForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\C#FALL2012\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\C#FALL2012\Assignments\LeeTProgram6CandySales\LeeTProgram6CandySales\obj\x86\Debug\LeeTProgram6CandySales.pdb

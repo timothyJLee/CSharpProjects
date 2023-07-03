@@ -1,0 +1,12 @@
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SharedClassLibrary\bin\Debug\SharedClassLibrary.dll.config
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SharedClassLibrary\bin\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SharedClassLibrary\bin\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SharedClassLibrary\obj\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SharedClassLibrary\obj\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SharedClassLibrary\obj\Debug\SharedClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SharedClassLibrary\bin\Debug\SharedClassLibrary.dll.config
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SharedClassLibrary\bin\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SharedClassLibrary\bin\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SharedClassLibrary\obj\Debug\SharedClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SharedClassLibrary\obj\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A2\CountriesOfTheWorldA2\SharedClassLibrary\obj\Debug\SharedClassLibrary.pdb

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RandomExperiment">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\RandomExperiment.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\RandomExperiment.suo">
+</Property><Property Name="Date" Value="Wednesday, October 26, 2011">
+</Property><Property Name="Time" Value="21:18 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RandomExperiment.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\Backup\RandomExperiment.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RandomExperiment.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\Backup\RandomExperiment.suo">
+</Event><Event ErrorLevel="0" Project="RandomExperiment" Source="RandomExperiment\RandomExperiment.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\Backup\RandomExperiment\RandomExperiment.csproj">
+</Event><Event ErrorLevel="0" Project="RandomExperiment" Source="RandomExperiment\RandomExperiment.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\Backup\RandomExperiment\RandomExperiment.csproj.user">
+</Event><Event ErrorLevel="0" Project="RandomExperiment" Source="RandomExperiment\Program.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\Backup\RandomExperiment\Program.cs">
+</Event><Event ErrorLevel="0" Project="RandomExperiment" Source="RandomExperiment\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\40 41RandomExperiment\RandomExperiment\Backup\RandomExperiment\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RandomExperiment" Source="RandomExperiment\RandomExperiment.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RandomExperiment" Source="RandomExperiment\RandomExperiment.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RandomExperiment.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RandomExperiment.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RandomExperiment" Source="RandomExperiment\RandomExperiment.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

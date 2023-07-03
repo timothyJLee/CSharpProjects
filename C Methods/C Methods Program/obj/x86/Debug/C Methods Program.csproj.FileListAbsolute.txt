@@ -1,0 +1,29 @@
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\bin\Debug\C Methods Program.exe
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\bin\Debug\C Methods Program.pdb
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\C_Methods_Program.MehtodsForm.resources
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\C_Methods_Program.Properties.Resources.resources
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\C Methods Program.exe
+c:\documents and settings\dpantaleo\my documents\visual studio 2010\Projects\C Methods Program\C Methods Program\obj\x86\Debug\C Methods Program.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C Methods Program.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C Methods Program.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\bin\Debug\C Methods Program.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\bin\Debug\C Methods Program.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C_Methods_Program.MethodsForm.resources
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C_Methods_Program.Properties.Resources.resources
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dpantaleo\Desktop\COPY WEDF 11 7!\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C Methods Program.exe
+C:\Users\dpantaleo\Desktop\COPY WEDF 11 7!\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C Methods Program.pdb
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C Methods Program.exe
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C Methods Program.pdb
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C_Methods_Program.MethodsForm.resources
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\C_Methods_Program.Properties.Resources.resources
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\bin\Debug\C Methods Program.exe
+C:\Users\dpantaleo\Desktop\C Methods ProgramORIGINAL\C Methods Program\bin\Debug\C Methods Program.pdb

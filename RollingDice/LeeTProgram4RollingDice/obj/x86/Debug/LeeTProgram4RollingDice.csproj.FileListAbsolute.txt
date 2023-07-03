@@ -1,0 +1,10 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\bin\Debug\LeeTProgram4RollingDice.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\bin\Debug\LeeTProgram4RollingDice.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.DiceGameForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.csproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.csprojResolveAssemblyReference.cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\C#FALL2012\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\C#FALL2012\Assignments\LeeTProgram4RollingDice\LeeTProgram4RollingDice\obj\x86\Debug\LeeTProgram4RollingDice.pdb

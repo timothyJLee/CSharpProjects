@@ -1,0 +1,5 @@
+4
+Jefferson;George;3453
+Bunker;Archie;5643
+Sanford;Fred;8585
+Lear;Norman;1224

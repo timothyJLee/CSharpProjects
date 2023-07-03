@@ -1,0 +1,5 @@
+O:\Visual Studio 2010\Projects\Exam2Part2TimothyLee\Exam2Part2TimothyLee\bin\Debug\Exam2Part2TimothyLee.exe
+O:\Visual Studio 2010\Projects\Exam2Part2TimothyLee\Exam2Part2TimothyLee\bin\Debug\Exam2Part2TimothyLee.pdb
+O:\Visual Studio 2010\Projects\Exam2Part2TimothyLee\Exam2Part2TimothyLee\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Visual Studio 2010\Projects\Exam2Part2TimothyLee\Exam2Part2TimothyLee\obj\x86\Debug\Exam2Part2TimothyLee.exe
+O:\Visual Studio 2010\Projects\Exam2Part2TimothyLee\Exam2Part2TimothyLee\obj\x86\Debug\Exam2Part2TimothyLee.pdb

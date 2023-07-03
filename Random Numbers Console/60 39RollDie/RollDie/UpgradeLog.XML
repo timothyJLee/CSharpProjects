@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RollDie">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\RollDie.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\RollDie.suo">
+</Property><Property Name="Date" Value="Wednesday, October 26, 2011">
+</Property><Property Name="Time" Value="22:00 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RollDie.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\Backup\RollDie.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RollDie.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\Backup\RollDie.suo">
+</Event><Event ErrorLevel="0" Project="RollDie" Source="RollDie\RollDie.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\Backup\RollDie\RollDie.csproj">
+</Event><Event ErrorLevel="0" Project="RollDie" Source="RollDie\RollDie.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\Backup\RollDie\RollDie.csproj.user">
+</Event><Event ErrorLevel="0" Project="RollDie" Source="RollDie\Program.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\Backup\RollDie\Program.cs">
+</Event><Event ErrorLevel="0" Project="RollDie" Source="RollDie\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 8 Random Numbers Console Apps\60 39RollDie\RollDie\Backup\RollDie\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RollDie" Source="RollDie\RollDie.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RollDie" Source="RollDie\RollDie.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RollDie.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RollDie.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RollDie" Source="RollDie\RollDie.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

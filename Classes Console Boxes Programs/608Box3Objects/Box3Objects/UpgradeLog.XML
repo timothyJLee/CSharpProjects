@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Box3Objects">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects.suo">
+</Property><Property Name="Date" Value="Monday, November 07, 2011">
+</Property><Property Name="Time" Value="21:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Box3Objects.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Backup\Box3Objects.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Box3Objects.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Backup\Box3Objects.suo">
+</Event><Event ErrorLevel="0" Project="Box3Objects" Source="Box3Objects\Box3Objects.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Backup\Box3Objects\Box3Objects.csproj">
+</Event><Event ErrorLevel="0" Project="Box3Objects" Source="Box3Objects\Box3Objects.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Backup\Box3Objects\Box3Objects.csproj.user">
+</Event><Event ErrorLevel="0" Project="Box3Objects" Source="Box3Objects\Box3Objects.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Backup\Box3Objects\Box3Objects.cs">
+</Event><Event ErrorLevel="0" Project="Box3Objects" Source="Box3Objects\Box3Objects.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Box3Objects" Source="Box3Objects\Box3Objects.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Box3Objects.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Box3Objects.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Box3Objects" Source="Box3Objects\Box3Objects.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

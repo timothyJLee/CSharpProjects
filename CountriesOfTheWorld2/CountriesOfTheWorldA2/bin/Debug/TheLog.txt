@@ -1,0 +1,589 @@
+FILE STATUS > Log FILE created
+CODE STATUS > AutoTester Started
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+FILE STATUS > CountryDataTable.bin deleted
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+CODE STATUS > Starting SetupProgram
+FILE STATUS > Opened File RawDataA2.csv
+FILE STATUS > CountryData FILE opened 
+FILE STATUS > Closed File RawDataA2.csv
+CODE STATUS > Read in 25 records
+
+
+***************SNAPSHOT UTILITY STARTED***************
+
+COUNTRY DATA FILE*********************************************************
+[RRN] CODE  NAME--------------CONTINENT------AREA-------POPULATION-L.EX  
+[001] GRC   Greece            Europe          131,626   10,545,700 78.4
+[002] EGY   Egypt             Africa        1,001,449   68,470,000 63.3
+[003] Empty
+[004] Empty
+[005] CHN   China             Asia          9,572,9001,277,558,016 71.4
+[006] Empty
+[007] AUS   Australia         Oceania       7,741,220   18,886,000 79.8
+[008] USA   United States     North America 9,363,520  278,356,992 77.1
+[009] YUG   Yugoslavia        Europe          102,173   10,640,000 72.4
+[010] BRA   Brazil            South America 8,547,403  170,115,008 62.9
+[011] TUR   Turkey            Asia            774,815   66,591,000   71
+[012] Empty
+[013] PSE   Palestine         Asia              6,257    3,101,000 71.4
+[014] MEX   Mexico            North America 1,958,201   98,881,000 71.5
+[015] HUN   Hungary           Europe           93,030   10,043,200 71.4
+[016] ZWE   Zimbabwe          Africa          390,757   11,669,000 37.8
+[017] WLF   Wallis and Futun  Oceania             200       15,000    0
+[018] Empty
+[019] FRA   France            Europe          551,500   59,225,700 78.8
+[020] Empty
+[021] QAT   Qatar             Asia             11,000      599,000 72.4
+[022] OMN   Oman              Asia            309,500    2,542,000 71.8
+[023] Empty
+[024] DOM   Dominican Republ  North America    48,511    8,495,000 73.2
+[025] NGA   Nigeria           Africa          923,768  111,506,000 51.6
+[026] JOR   Jordan            Asia             88,946    5,083,000 77.4
+[027] Empty
+[028] KEN   Kenya             Africa          580,367   30,080,000   48
+[029] VEN   Venezuela         South America   912,050   24,170,000 73.1
+[030] RUS   Russian Federati  Europe       17,075,400  146,934,000 67.2
+[031] SWE   Sweden            Europe          449,964    8,861,400 79.6
+[032] Empty
+[033] Empty
+[034] LIE   Liechtenstein     Europe              160       32,300 78.8
+[035] IND   India             Asia          3,287,2631,013,662,016 62.5
+End***********************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of SNAPSHOT UTILITY**********
+
+
+
+FILE STATUS > CountryData FILE closed
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+CODE STATUS > Starting UserApp
+FILE STATUS > Opened File TransData5.txt
+FILE STATUS > CountryData FILE opened 
+
+
+***************LIST ALL BY ID STARTED***************
+
+COUNTRY DATA FILE*************************************************************
+Number of Records: 25
+ID    CODE  NAME             CONTINENT      AREA        POPULATION    L.EXP  
+[001]     GRC   Greece          Europe         131,626     10,545,700    78.4
+[002]     EGY   Egypt           Africa         1,001,449   68,470,000    63.3
+[005]     CHN   China           Asia           9,572,900   1,277,558,016 71.4
+[007]     AUS   Australia       Oceania        7,741,220   18,886,000    79.8
+[008]     USA   United States   North America  9,363,520   278,356,992   77.1
+[009]     YUG   Yugoslavia      Europe         102,173     10,640,000    72.4
+[010]     BRA   Brazil          South America  8,547,403   170,115,008   62.9
+[011]     TUR   Turkey          Asia           774,815     66,591,000    71
+[013]     PSE   Palestine       Asia           6,257       3,101,000     71.4
+[014]     MEX   Mexico          North America  1,958,201   98,881,000    71.5
+[015]     HUN   Hungary         Europe         93,030      10,043,200    71.4
+[016]     ZWE   Zimbabwe        Africa         390,757     11,669,000    37.8
+[017]     WLF   Wallis and FutunOceania        200         15,000        0
+[019]     FRA   France          Europe         551,500     59,225,700    78.8
+[021]     QAT   Qatar           Asia           11,000      599,000       72.4
+[022]     OMN   Oman            Asia           309,500     2,542,000     71.8
+[024]     DOM   Dominican RepublNorth America  48,511      8,495,000     73.2
+[025]     NGA   Nigeria         Africa         923,768     111,506,000   51.6
+End***************************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of LIST ALL BY ID**********
+
+
+
+SI 35
+[035] IND   India          Asia           3287263     1013662016    62.5
+SI 27
+**ERROR: no country with id 27
+SI 1
+[001] GRC   Greece         Europe         131626      10545700      78.4
+SI 999999999
+**ERROR: no country with id 999
+SI 10
+[010] BRA   Brazil         South America  8547403     170115008     62.9
+SI 33
+**ERROR: no country with id 33
+SI 36
+**ERROR: no country with id 36
+SI 0
+**ERROR: no country with id 0.  RRNs start with 1
+SI 001
+[001] GRC   Greece         Europe         131626      10545700      78.4
+SI 99
+**ERROR: no country with id 99
+SI 24
+[024] DOM   Dominican RepublNorth America  48511       8495000       73.2
+
+
+***************LIST ALL BY ID STARTED***************
+
+COUNTRY DATA FILE*************************************************************
+Number of Records: 25
+ID    CODE  NAME             CONTINENT      AREA        POPULATION    L.EXP  
+[001]     GRC   Greece          Europe         131,626     10,545,700    78.4
+[002]     EGY   Egypt           Africa         1,001,449   68,470,000    63.3
+[005]     CHN   China           Asia           9,572,900   1,277,558,016 71.4
+[007]     AUS   Australia       Oceania        7,741,220   18,886,000    79.8
+[008]     USA   United States   North America  9,363,520   278,356,992   77.1
+[009]     YUG   Yugoslavia      Europe         102,173     10,640,000    72.4
+[010]     BRA   Brazil          South America  8,547,403   170,115,008   62.9
+[011]     TUR   Turkey          Asia           774,815     66,591,000    71
+[013]     PSE   Palestine       Asia           6,257       3,101,000     71.4
+[014]     MEX   Mexico          North America  1,958,201   98,881,000    71.5
+[015]     HUN   Hungary         Europe         93,030      10,043,200    71.4
+[016]     ZWE   Zimbabwe        Africa         390,757     11,669,000    37.8
+[017]     WLF   Wallis and FutunOceania        200         15,000        0
+[019]     FRA   France          Europe         551,500     59,225,700    78.8
+[021]     QAT   Qatar           Asia           11,000      599,000       72.4
+[022]     OMN   Oman            Asia           309,500     2,542,000     71.8
+[024]     DOM   Dominican RepublNorth America  48,511      8,495,000     73.2
+[025]     NGA   Nigeria         Africa         923,768     111,506,000   51.6
+End***************************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of LIST ALL BY ID**********
+
+
+
+FILE STATUS > TransData FILE closed
+
+
+***************SNAPSHOT UTILITY STARTED***************
+
+COUNTRY DATA FILE*********************************************************
+[RRN] CODE  NAME--------------CONTINENT------AREA-------POPULATION-L.EX  
+[001] GRC   Greece            Europe          131,626   10,545,700 78.4
+[002] EGY   Egypt             Africa        1,001,449   68,470,000 63.3
+[003] Empty
+[004] Empty
+[005] CHN   China             Asia          9,572,9001,277,558,016 71.4
+[006] Empty
+[007] AUS   Australia         Oceania       7,741,220   18,886,000 79.8
+[008] USA   United States     North America 9,363,520  278,356,992 77.1
+[009] YUG   Yugoslavia        Europe          102,173   10,640,000 72.4
+[010] BRA   Brazil            South America 8,547,403  170,115,008 62.9
+[011] TUR   Turkey            Asia            774,815   66,591,000   71
+[012] Empty
+[013] PSE   Palestine         Asia              6,257    3,101,000 71.4
+[014] MEX   Mexico            North America 1,958,201   98,881,000 71.5
+[015] HUN   Hungary           Europe           93,030   10,043,200 71.4
+[016] ZWE   Zimbabwe          Africa          390,757   11,669,000 37.8
+[017] WLF   Wallis and Futun  Oceania             200       15,000    0
+[018] Empty
+[019] FRA   France            Europe          551,500   59,225,700 78.8
+[020] Empty
+[021] QAT   Qatar             Asia             11,000      599,000 72.4
+[022] OMN   Oman              Asia            309,500    2,542,000 71.8
+[023] Empty
+[024] DOM   Dominican Republ  North America    48,511    8,495,000 73.2
+[025] NGA   Nigeria           Africa          923,768  111,506,000 51.6
+[026] JOR   Jordan            Asia             88,946    5,083,000 77.4
+[027] Empty
+[028] KEN   Kenya             Africa          580,367   30,080,000   48
+[029] VEN   Venezuela         South America   912,050   24,170,000 73.1
+[030] RUS   Russian Federati  Europe       17,075,400  146,934,000 67.2
+[031] SWE   Sweden            Europe          449,964    8,861,400 79.6
+[032] Empty
+[033] Empty
+[034] LIE   Liechtenstein     Europe              160       32,300 78.8
+[035] IND   India             Asia          3,287,2631,013,662,016 62.5
+End***********************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of SNAPSHOT UTILITY**********
+
+
+
+FILE STATUS > CountryData FILE closed 
+CODE STATUS > Read in 25 records
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+FILE STATUS > CountryDataTable.bin deleted
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+CODE STATUS > Starting SetupProgram
+FILE STATUS > Opened File RawDataA2.csv
+FILE STATUS > CountryData FILE opened 
+FILE STATUS > Closed File RawDataA2.csv
+CODE STATUS > Read in 25 records
+
+
+***************SNAPSHOT UTILITY STARTED***************
+
+COUNTRY DATA FILE*********************************************************
+[RRN] CODE  NAME--------------CONTINENT------AREA-------POPULATION-L.EX  
+[001] GRC   Greece            Europe          131,626   10,545,700 78.4
+[002] EGY   Egypt             Africa        1,001,449   68,470,000 63.3
+[003] Empty
+[004] Empty
+[005] CHN   China             Asia          9,572,9001,277,558,016 71.4
+[006] Empty
+[007] AUS   Australia         Oceania       7,741,220   18,886,000 79.8
+[008] USA   United States     North America 9,363,520  278,356,992 77.1
+[009] YUG   Yugoslavia        Europe          102,173   10,640,000 72.4
+[010] BRA   Brazil            South America 8,547,403  170,115,008 62.9
+[011] TUR   Turkey            Asia            774,815   66,591,000   71
+[012] Empty
+[013] PSE   Palestine         Asia              6,257    3,101,000 71.4
+[014] MEX   Mexico            North America 1,958,201   98,881,000 71.5
+[015] HUN   Hungary           Europe           93,030   10,043,200 71.4
+[016] ZWE   Zimbabwe          Africa          390,757   11,669,000 37.8
+[017] WLF   Wallis and Futun  Oceania             200       15,000    0
+[018] Empty
+[019] FRA   France            Europe          551,500   59,225,700 78.8
+[020] Empty
+[021] QAT   Qatar             Asia             11,000      599,000 72.4
+[022] OMN   Oman              Asia            309,500    2,542,000 71.8
+[023] Empty
+[024] DOM   Dominican Republ  North America    48,511    8,495,000 73.2
+[025] NGA   Nigeria           Africa          923,768  111,506,000 51.6
+[026] JOR   Jordan            Asia             88,946    5,083,000 77.4
+[027] Empty
+[028] KEN   Kenya             Africa          580,367   30,080,000   48
+[029] VEN   Venezuela         South America   912,050   24,170,000 73.1
+[030] RUS   Russian Federati  Europe       17,075,400  146,934,000 67.2
+[031] SWE   Sweden            Europe          449,964    8,861,400 79.6
+[032] Empty
+[033] Empty
+[034] LIE   Liechtenstein     Europe              160       32,300 78.8
+[035] IND   India             Asia          3,287,2631,013,662,016 62.5
+End***********************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of SNAPSHOT UTILITY**********
+
+
+
+FILE STATUS > CountryData FILE closed
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+CODE STATUS > Starting UserApp
+FILE STATUS > Opened File TransData6.txt
+FILE STATUS > CountryData FILE opened 
+FILE STATUS > TransData FILE closed
+
+
+***************SNAPSHOT UTILITY STARTED***************
+
+COUNTRY DATA FILE*********************************************************
+[RRN] CODE  NAME--------------CONTINENT------AREA-------POPULATION-L.EX  
+[001] GRC   Greece            Europe          131,626   10,545,700 78.4
+[002] EGY   Egypt             Africa        1,001,449   68,470,000 63.3
+[003] Empty
+[004] Empty
+[005] CHN   China             Asia          9,572,9001,277,558,016 71.4
+[006] Empty
+[007] AUS   Australia         Oceania       7,741,220   18,886,000 79.8
+[008] USA   United States     North America 9,363,520  278,356,992 77.1
+[009] YUG   Yugoslavia        Europe          102,173   10,640,000 72.4
+[010] BRA   Brazil            South America 8,547,403  170,115,008 62.9
+[011] TUR   Turkey            Asia            774,815   66,591,000   71
+[012] Empty
+[013] PSE   Palestine         Asia              6,257    3,101,000 71.4
+[014] MEX   Mexico            North America 1,958,201   98,881,000 71.5
+[015] HUN   Hungary           Europe           93,030   10,043,200 71.4
+[016] ZWE   Zimbabwe          Africa          390,757   11,669,000 37.8
+[017] WLF   Wallis and Futun  Oceania             200       15,000    0
+[018] Empty
+[019] FRA   France            Europe          551,500   59,225,700 78.8
+[020] Empty
+[021] QAT   Qatar             Asia             11,000      599,000 72.4
+[022] OMN   Oman              Asia            309,500    2,542,000 71.8
+[023] Empty
+[024] DOM   Dominican Republ  North America    48,511    8,495,000 73.2
+[025] NGA   Nigeria           Africa          923,768  111,506,000 51.6
+[026] JOR   Jordan            Asia             88,946    5,083,000 77.4
+[027] Empty
+[028] KEN   Kenya             Africa          580,367   30,080,000   48
+[029] VEN   Venezuela         South America   912,050   24,170,000 73.1
+[030] RUS   Russian Federati  Europe       17,075,400  146,934,000 67.2
+[031] SWE   Sweden            Europe          449,964    8,861,400 79.6
+[032] Empty
+[033] Empty
+[034] LIE   Liechtenstein     Europe              160       32,300 78.8
+[035] IND   India             Asia          3,287,2631,013,662,016 62.5
+End***********************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of SNAPSHOT UTILITY**********
+
+
+
+FILE STATUS > CountryData FILE closed 
+CODE STATUS > Read in 25 records
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+FILE STATUS > CountryDataTable.bin deleted
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+CODE STATUS > Starting SetupProgram
+FILE STATUS > Opened File RawDataA2.csv
+FILE STATUS > CountryData FILE opened 
+FILE STATUS > Closed File RawDataA2.csv
+CODE STATUS > Read in 25 records
+
+
+***************SNAPSHOT UTILITY STARTED***************
+
+COUNTRY DATA FILE*********************************************************
+[RRN] CODE  NAME--------------CONTINENT------AREA-------POPULATION-L.EX  
+[001] GRC   Greece            Europe          131,626   10,545,700 78.4
+[002] EGY   Egypt             Africa        1,001,449   68,470,000 63.3
+[003] Empty
+[004] Empty
+[005] CHN   China             Asia          9,572,9001,277,558,016 71.4
+[006] Empty
+[007] AUS   Australia         Oceania       7,741,220   18,886,000 79.8
+[008] USA   United States     North America 9,363,520  278,356,992 77.1
+[009] YUG   Yugoslavia        Europe          102,173   10,640,000 72.4
+[010] BRA   Brazil            South America 8,547,403  170,115,008 62.9
+[011] TUR   Turkey            Asia            774,815   66,591,000   71
+[012] Empty
+[013] PSE   Palestine         Asia              6,257    3,101,000 71.4
+[014] MEX   Mexico            North America 1,958,201   98,881,000 71.5
+[015] HUN   Hungary           Europe           93,030   10,043,200 71.4
+[016] ZWE   Zimbabwe          Africa          390,757   11,669,000 37.8
+[017] WLF   Wallis and Futun  Oceania             200       15,000    0
+[018] Empty
+[019] FRA   France            Europe          551,500   59,225,700 78.8
+[020] Empty
+[021] QAT   Qatar             Asia             11,000      599,000 72.4
+[022] OMN   Oman              Asia            309,500    2,542,000 71.8
+[023] Empty
+[024] DOM   Dominican Republ  North America    48,511    8,495,000 73.2
+[025] NGA   Nigeria           Africa          923,768  111,506,000 51.6
+[026] JOR   Jordan            Asia             88,946    5,083,000 77.4
+[027] Empty
+[028] KEN   Kenya             Africa          580,367   30,080,000   48
+[029] VEN   Venezuela         South America   912,050   24,170,000 73.1
+[030] RUS   Russian Federati  Europe       17,075,400  146,934,000 67.2
+[031] SWE   Sweden            Europe          449,964    8,861,400 79.6
+[032] Empty
+[033] Empty
+[034] LIE   Liechtenstein     Europe              160       32,300 78.8
+[035] IND   India             Asia          3,287,2631,013,662,016 62.5
+End***********************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of SNAPSHOT UTILITY**********
+
+
+
+FILE STATUS > CountryData FILE closed
+FILE STATUS > TheLog FILE Closed
+FILE STATUS > Log FILE opened
+CODE STATUS > Starting UserApp
+FILE STATUS > Opened File TransData7.txt
+FILE STATUS > CountryData FILE opened 
+
+
+***************LIST ALL BY ID STARTED***************
+
+COUNTRY DATA FILE*************************************************************
+Number of Records: 25
+ID    CODE  NAME             CONTINENT      AREA        POPULATION    L.EXP  
+[001]     GRC   Greece          Europe         131,626     10,545,700    78.4
+[002]     EGY   Egypt           Africa         1,001,449   68,470,000    63.3
+[005]     CHN   China           Asia           9,572,900   1,277,558,016 71.4
+[007]     AUS   Australia       Oceania        7,741,220   18,886,000    79.8
+[008]     USA   United States   North America  9,363,520   278,356,992   77.1
+[009]     YUG   Yugoslavia      Europe         102,173     10,640,000    72.4
+[010]     BRA   Brazil          South America  8,547,403   170,115,008   62.9
+[011]     TUR   Turkey          Asia           774,815     66,591,000    71
+[013]     PSE   Palestine       Asia           6,257       3,101,000     71.4
+[014]     MEX   Mexico          North America  1,958,201   98,881,000    71.5
+[015]     HUN   Hungary         Europe         93,030      10,043,200    71.4
+[016]     ZWE   Zimbabwe        Africa         390,757     11,669,000    37.8
+[017]     WLF   Wallis and FutunOceania        200         15,000        0
+[019]     FRA   France          Europe         551,500     59,225,700    78.8
+[021]     QAT   Qatar           Asia           11,000      599,000       72.4
+[022]     OMN   Oman            Asia           309,500     2,542,000     71.8
+[024]     DOM   Dominican RepublNorth America  48,511      8,495,000     73.2
+[025]     NGA   Nigeria         Africa         923,768     111,506,000   51.6
+End***************************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of LIST ALL BY ID**********
+
+
+
+SI 8
+[008] USA   United States  North America  9363520     278356992     77.1
+SI 23
+**ERROR: no country with id 23
+DI 15
+> Hungary deleted
+DI 5
+> China deleted
+DI 14
+> Mexico deleted
+DI 15
+> **ERROR: no country with id 15
+SI 5
+**ERROR: no country with id 5
+SI 14
+**ERROR: no country with id 14
+SI 15
+**ERROR: no country with id 15
+DI 15
+> **ERROR: no country with id 15
+DI 4
+> **ERROR: no country with id 4
+DI 27
+> **ERROR: no country with id 27
+DI 0
+**ERROR: no country with id 0
+DI 999999999
+> **ERROR: no country with id 999
+IN Argentina
+SI 4
+[004] ARG   Argentina      South America  2780400     37032000      75.1
+IN Japan
+IN Jamaica
+IN Cuba
+IN Austria
+SI 15
+[015] CUB   Cuba           North America  110861      11201000      76.2
+DI 15
+> Cuba deleted
+DI 27
+> Jamaica deleted
+DI 1
+> Greece deleted
+DI 35
+> India deleted
+IN South Georgia and the South Sandwich Islands
+IN Heard Island and McDonald Islands
+IN Germany
+SI 15
+[015] SGS   South Georgia anAntarctica     3903        0             0
+SI 35
+**ERROR: no country with id 35
+SI 1
+**ERROR: no country with id 1
+SI 20
+[020] HMD   Heard Island andAntarctica     359         0             0
+SI 40
+[040] DEU   Germany        Europe         357022      82164704      77.4
+SI 5
+[005] AUT   Austria        Europe         83859       8091800       77.7
+SI 37
+[037] JPN   Japan          Asia           377829      126714000     80.7
+SI 27
+**ERROR: no country with id 27
+SI 36
+**ERROR: no country with id 36
+SI 99
+**ERROR: no country with id 99
+SI 41
+**ERROR: no country with id 41
+SI 0
+**ERROR: no country with id 0.  RRNs start with 1
+SI 30
+[030] RUS   Russian FederatiEurope         17075400    146934000     67.2
+SI 28
+[028] KEN   Kenya          Africa         580367      30080000      48
+
+
+***************LIST ALL BY ID STARTED***************
+
+COUNTRY DATA FILE*************************************************************
+Number of Records: 25
+ID    CODE  NAME             CONTINENT      AREA        POPULATION    L.EXP  
+[002]     EGY   Egypt           Africa         1,001,449   68,470,000    63.3
+[004]     ARG   Argentina       South America  2,780,400   37,032,000    75.1
+[005]     AUT   Austria         Europe         83,859      8,091,800     77.7
+[007]     AUS   Australia       Oceania        7,741,220   18,886,000    79.8
+[008]     USA   United States   North America  9,363,520   278,356,992   77.1
+[009]     YUG   Yugoslavia      Europe         102,173     10,640,000    72.4
+[010]     BRA   Brazil          South America  8,547,403   170,115,008   62.9
+[011]     TUR   Turkey          Asia           774,815     66,591,000    71
+[013]     PSE   Palestine       Asia           6,257       3,101,000     71.4
+[015]     SGS   South Georgia anAntarctica     3,903                     0
+[016]     ZWE   Zimbabwe        Africa         390,757     11,669,000    37.8
+[017]     WLF   Wallis and FutunOceania        200         15,000        0
+[019]     FRA   France          Europe         551,500     59,225,700    78.8
+[020]     HMD   Heard Island andAntarctica     359                       0
+[021]     QAT   Qatar           Asia           11,000      599,000       72.4
+[022]     OMN   Oman            Asia           309,500     2,542,000     71.8
+[024]     DOM   Dominican RepublNorth America  48,511      8,495,000     73.2
+[025]     NGA   Nigeria         Africa         923,768     111,506,000   51.6
+End***************************************************************************
+
+#Rec in COUNTRY TABLE FILE: 25
+
+**********End Of LIST ALL BY ID**********
+
+
+
+FILE STATUS > TransData FILE closed
+
+
+***************SNAPSHOT UTILITY STARTED***************
+
+COUNTRY DATA FILE*********************************************************
+[RRN] CODE  NAME--------------CONTINENT------AREA-------POPULATION-L.EX  
+[001] EMPTY
+[002] EGY   Egypt             Africa        1,001,449   68,470,000 63.3
+[003] Empty
+[004] ARG   Argentina         South America 2,780,400   37,032,000 75.1
+[005] AUT   Austria           Europe           83,859    8,091,800 77.7
+[006] Empty
+[007] AUS   Australia         Oceania       7,741,220   18,886,000 79.8
+[008] USA   United States     North America 9,363,520  278,356,992 77.1
+[009] YUG   Yugoslavia        Europe          102,173   10,640,000 72.4
+[010] BRA   Brazil            South America 8,547,403  170,115,008 62.9
+[011] TUR   Turkey            Asia            774,815   66,591,000   71
+[012] Empty
+[013] PSE   Palestine         Asia              6,257    3,101,000 71.4
+[014] EMPTY
+[015] SGS   South Georgia an  Antarctica        3,903                 0
+[016] ZWE   Zimbabwe          Africa          390,757   11,669,000 37.8
+[017] WLF   Wallis and Futun  Oceania             200       15,000    0
+[018] Empty
+[019] FRA   France            Europe          551,500   59,225,700 78.8
+[020] HMD   Heard Island and  Antarctica          359                 0
+[021] QAT   Qatar             Asia             11,000      599,000 72.4
+[022] OMN   Oman              Asia            309,500    2,542,000 71.8
+[023] Empty
+[024] DOM   Dominican Republ  North America    48,511    8,495,000 73.2
+[025] NGA   Nigeria           Africa          923,768  111,506,000 51.6
+[026] JOR   Jordan            Asia             88,946    5,083,000 77.4
+[027] EMPTY
+[028] KEN   Kenya             Africa          580,367   30,080,000   48
+[029] VEN   Venezuela         South America   912,050   24,170,000 73.1
+[030] RUS   Russian Federati  Europe       17,075,400  146,934,000 67.2
+[031] SWE   Sweden            Europe          449,964    8,861,400 79.6
+[032] Empty
+[033] Empty
+[034] LIE   Liechtenstein     Europe              160       32,300 78.8
+[035] EMPTY
+[036] Empty
+[037] JPN   Japan             Asia            377,829  126,714,000 80.7
+[038] Empty
+[039] Empty
+[040] DEU   Germany           Europe          357,022   82,164,704 77.4
+End***********************************************************************
+
+#Rec in COUNTRY TABLE FILE: 33
+
+**********End Of SNAPSHOT UTILITY**********
+
+
+
+FILE STATUS > CountryData FILE closed 
+CODE STATUS > Read in 25 records
+FILE STATUS > TheLog FILE Closed

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Box1Class">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Box1Class.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Box1Class.suo">
+</Property><Property Name="Date" Value="Monday, November 07, 2011">
+</Property><Property Name="Time" Value="20:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Box1Class.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Backup\Box1Class.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Box1Class.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Backup\Box1Class.suo">
+</Event><Event ErrorLevel="0" Project="Box1Class" Source="Box1Class\Box1Class.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Backup\Box1Class\Box1Class.csproj">
+</Event><Event ErrorLevel="0" Project="Box1Class" Source="Box1Class\Box1Class.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Backup\Box1Class\Box1Class.csproj.user">
+</Event><Event ErrorLevel="0" Project="Box1Class" Source="Box1Class\Box1Class.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\10Box1Class\Box1Class\Backup\Box1Class\Box1Class.cs">
+</Event><Event ErrorLevel="0" Project="Box1Class" Source="Box1Class\Box1Class.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Box1Class" Source="Box1Class\Box1Class.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Box1Class.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Box1Class.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Box1Class" Source="Box1Class\Box1Class.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

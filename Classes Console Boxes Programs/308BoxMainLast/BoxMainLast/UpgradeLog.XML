@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BoxMainLast">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\BoxMainLast.suo">
+</Property><Property Name="Date" Value="Monday, November 07, 2011">
+</Property><Property Name="Time" Value="20:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BoxMainLast.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\Backup\BoxMainLast.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BoxMainLast.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\Backup\BoxMainLast.suo">
+</Event><Event ErrorLevel="0" Project="BoxMainLast" Source="BoxMainLast\BoxMainLast.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\Backup\BoxMainLast\BoxMainLast.csproj">
+</Event><Event ErrorLevel="0" Project="BoxMainLast" Source="BoxMainLast\BoxMainLast.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\Backup\BoxMainLast\BoxMainLast.csproj.user">
+</Event><Event ErrorLevel="0" Project="BoxMainLast" Source="BoxMainLast\Program.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\Backup\BoxMainLast\Program.cs">
+</Event><Event ErrorLevel="0" Project="BoxMainLast" Source="BoxMainLast\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\308BoxMainLast\BoxMainLast\Backup\BoxMainLast\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BoxMainLast" Source="BoxMainLast\BoxMainLast.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BoxMainLast" Source="BoxMainLast\BoxMainLast.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BoxMainLast.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BoxMainLast.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BoxMainLast" Source="BoxMainLast\BoxMainLast.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

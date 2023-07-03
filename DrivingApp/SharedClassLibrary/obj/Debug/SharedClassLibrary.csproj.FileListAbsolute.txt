@@ -1,0 +1,5 @@
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A5\DrivingAppA5\SharedClassLibrary\bin\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A5\DrivingAppA5\SharedClassLibrary\bin\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A5\DrivingAppA5\SharedClassLibrary\obj\Debug\SharedClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A5\DrivingAppA5\SharedClassLibrary\obj\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A5\DrivingAppA5\SharedClassLibrary\obj\Debug\SharedClassLibrary.pdb

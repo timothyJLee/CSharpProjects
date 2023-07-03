@@ -1,0 +1,4 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram7EquipmentDepreciationConsole\LeeTProgram7EquipmentDepreciationConsole\bin\Debug\LeeTProgram7EquipmentDepreciationConsole.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram7EquipmentDepreciationConsole\LeeTProgram7EquipmentDepreciationConsole\bin\Debug\LeeTProgram7EquipmentDepreciationConsole.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram7EquipmentDepreciationConsole\LeeTProgram7EquipmentDepreciationConsole\obj\x86\Debug\LeeTProgram7EquipmentDepreciationConsole.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram7EquipmentDepreciationConsole\LeeTProgram7EquipmentDepreciationConsole\obj\x86\Debug\LeeTProgram7EquipmentDepreciationConsole.pdb

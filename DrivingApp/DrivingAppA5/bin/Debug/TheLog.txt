@@ -1,0 +1,280 @@
+ 
+Map Data:   Europe     Number of cities:   21
+Amsterdam
+Belgrade
+Berlin
+Bern
+Brussels
+Budapest
+Copenhagen
+Genoa
+Hamburg
+Lisbon
+Madrid
+Munich
+Naples
+Paris
+Prague
+Rome
+Trieste
+Vienna
+Warsaw
+Dublin
+London
+        0     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20
+   ------------------------------------------------------------------------------------------------------------------------------
+ 0|     0 32767 32767   558   164 32767 32767 32767   338 32767 32767   526 32767 32767 32767 32767 32767 32767 32767 32767 32767
+ 1| 32767     0 32767 32767 32767   263 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767   403   501 32767 32767 32767
+ 2| 32767 32767     0   628 32767 32767 32767 32767   182 32767 32767 32767 32767 32767   219 32767 32767 32767   345 32767 32767
+ 3| 32767 32767 32767     0 32767 32767 32767   304 32767 32767  1104   311 32767 32767 32767 32767   489 32767 32767 32767 32767
+ 4| 32767 32767 32767   497     0 32767 32767   740 32767 32767 32767 32767 32767   225 32767 32767 32767 32767 32767 32767 32767
+ 5| 32767 32767 32767 32767 32767     0 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767   384   155   394 32767 32767
+ 6| 32767 32767 32767 32767 32767 32767     0 32767   180 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767
+ 7| 32767 32767 32767 32767 32767 32767 32767     0 32767 32767   951 32767 32767   629 32767   328   361 32767 32767 32767 32767
+ 8| 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767
+ 9| 32767 32767 32767 32767 32767 32767 32767 32767 32767     0   339 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767
+10| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767   805 32767 32767 32767 32767 32767 32767 32767
+11| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767   174   582 32767   280 32767 32767 32767
+12| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767   134 32767 32767 32767 32767 32767
+13| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767 32767 32767 32767 32767 32767
+14| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767   185   479 32767 32767
+15| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0   442 32767 32767 32767 32767
+16| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0   317 32767 32767 32767
+17| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0   464 32767 32767
+18| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767 32767
+19| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0 32767
+20| 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767 32767     0
+
+Paris(13) TO Warsaw(18)
+DISTANCE: 13948
+PATH: Paris Brussels Amsterdam Genoa Bern Hamburg Madrid Copenhagen Berlin Munich Rome Trieste Prague Naples Lisbon Vienna Warsaw  
+
+TRACE OF TARGETS: Paris Brussels Hamburg Brussels Hamburg Amsterdam Madrid Amsterdam Rome Munich Genoa Genoa Munich Berlin  Warsaw
+# TARGETS: 18
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Warsaw(18) TO Paris(13)
+DISTANCE: 10255
+PATH: Warsaw Berlin Budapest Vienna Prague Hamburg Munich Belgrade Copenhagen Trieste Amsterdam Bern Brussels Genoa Paris  
+
+TRACE OF TARGETS: Warsaw Hamburg Budapest Munich Amsterdam Hamburg Trieste Berlin Prague Brussels Budapest  Paris
+# TARGETS: 16
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Brussels(4) TO Belgrade(1)
+DISTANCE: 7489
+PATH: Brussels Amsterdam Paris Bern Hamburg Copenhagen Berlin Munich Genoa Prague Vienna Belgrade  
+
+TRACE OF TARGETS: Brussels Vienna Hamburg Hamburg Amsterdam Amsterdam Munich Munich  Belgrade
+# TARGETS: 15
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Belgrade(1) TO Brussels(4)
+DISTANCE: 12144
+PATH: Belgrade Budapest Trieste Vienna Prague Warsaw Munich Genoa Berlin Rome Bern Naples Hamburg Copenhagen Amsterdam Brussels  
+
+TRACE OF TARGETS: Belgrade Munich Prague Trieste Amsterdam Hamburg Trieste Berlin Vienna Rome Vienna Trieste Budapest Budapest  Brussels
+# TARGETS: 17
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Belgrade(1) TO Prague(14)
+DISTANCE: 1687
+PATH: Belgrade Budapest Trieste Vienna Prague  
+
+TRACE OF TARGETS: Belgrade Vienna Budapest  Prague
+# TARGETS: 8
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Brussels(4) TO Budapest(5)
+DISTANCE: 7143
+PATH: Brussels Amsterdam Paris Bern Hamburg Copenhagen Berlin Munich Genoa Prague Vienna Budapest  
+
+TRACE OF TARGETS: Brussels Hamburg Vienna Hamburg Amsterdam Amsterdam Munich Munich  Budapest
+# TARGETS: 16
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Amsterdam(0) TO Brussels(4)
+DISTANCE: 164
+PATH: Amsterdam Brussels  
+
+TRACE OF TARGETS: Amsterdam  Brussels
+# TARGETS: 2
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Amsterdam(0) TO Bern(3)
+DISTANCE: 558
+PATH: Amsterdam Bern  
+
+TRACE OF TARGETS: Amsterdam  Bern
+# TARGETS: 4
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Rome(15) TO Berlin(2)
+DISTANCE: 6279
+PATH: Rome Naples Genoa Trieste Munich Bern Prague Vienna Budapest Belgrade Berlin  
+
+TRACE OF TARGETS: Rome Trieste Prague Genoa Trieste Munich Trieste  Berlin
+# TARGETS: 15
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Naples(12) TO Warsaw(18)
+DISTANCE: 13665
+PATH: Naples Rome Genoa Trieste Munich Bern Prague Vienna Budapest Belgrade Paris Berlin Brussels Amsterdam Hamburg Warsaw  
+
+TRACE OF TARGETS: Naples Munich Trieste Prague Genoa Genoa Trieste Rome Berlin Rome Genoa Munich Rome Trieste Budapest  Warsaw
+# TARGETS: 19
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Warsaw(18) TO Naples(12)
+DISTANCE: 11575
+PATH: Warsaw Berlin Budapest Vienna Prague Hamburg Munich Belgrade Copenhagen Trieste Amsterdam Bern Brussels Genoa Rome Naples  
+
+TRACE OF TARGETS: Warsaw Hamburg Budapest Munich Amsterdam Hamburg Trieste Berlin Prague Rome Trieste Budapest  Naples
+# TARGETS: 16
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Vienna(17) TO Belgrade(1)
+DISTANCE: 501
+PATH: Vienna Belgrade  
+
+TRACE OF TARGETS: Vienna  Belgrade
+# TARGETS: 0
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Lisbon(9) TO Warsaw(18)
+DISTANCE: 30251
+PATH: Lisbon Madrid Paris Genoa Brussels Bern Amsterdam Rome Trieste Naples Munich Hamburg Prague Vienna Budapest Copenhagen Berlin Belgrade Warsaw  
+
+TRACE OF TARGETS: Lisbon Brussels Trieste Hamburg Madrid Paris Trieste Hamburg Madrid Amsterdam Bern Rome Madrid Munich Genoa Genoa Trieste Berlin  Warsaw
+# TARGETS: 19
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Vienna(17) TO Belgrade(1)
+DISTANCE: 501
+PATH: Vienna Belgrade  
+
+TRACE OF TARGETS: Vienna  Belgrade
+# TARGETS: 0
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Dublin(19) TO London(20)
+DISTANCE: ?
+PATH: SORRY - can't reach destination city from start city.
+
+TRACE OF TARGETS: ...
+# TARGETS: ...
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Warsaw(18) TO Dublin(19)
+DISTANCE: ?
+PATH: SORRY - can't reach destination city from start city.
+
+TRACE OF TARGETS: ...
+# TARGETS: ...
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+London(20) TO Warsaw(18)
+DISTANCE: ?
+PATH: SORRY - can't reach destination city from start city.
+
+TRACE OF TARGETS: ...
+# TARGETS: ...
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Rome(15) TO Rome(15)
+DISTANCE: 0
+PATH:  
+
+TRACE OF TARGETS: Rome  Rome
+# TARGETS: 0
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+ 
+Map Data:   Other     Number of cities:   7
+Alto
+Barnes
+Cranbrook
+Danville
+Eden
+FallsRock
+Glendale
+        0     1     2     3     4     5     6
+   ------------------------------------------
+ 0|     0    10 32767     8     3 32767 32767
+ 1| 32767     0     7 32767 32767 32767     1
+ 2|     5 32767     0    10 32767     3 32767
+ 3| 32767 32767    10     0 32767 32767 32767
+ 4| 32767 32767 32767 32767     0 32767 32767
+ 5| 32767     1     3 32767 32767     0     4
+ 6| 32767     1 32767 32767 32767     2     0
+
+Cranbrook(2) TO Alto(0)
+DISTANCE: 5
+PATH: Cranbrook Alto  
+
+TRACE OF TARGETS: Cranbrook  Alto
+# TARGETS: 2
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Alto(0) TO Cranbrook(2)
+DISTANCE: 38
+PATH: Alto Eden Danville Barnes Cranbrook  
+
+TRACE OF TARGETS: Alto Barnes  Cranbrook
+# TARGETS: 4
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Alto(0) TO Danville(3)
+DISTANCE: 8
+PATH: Alto Danville  
+
+TRACE OF TARGETS: Alto  Danville
+# TARGETS: 1
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Glendale(6) TO Alto(0)
+DISTANCE: 18
+PATH: Glendale Barnes FallsRock Cranbrook Alto  
+
+TRACE OF TARGETS: Glendale Cranbrook FallsRock  Alto
+# TARGETS: 5
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Eden(4) TO Barnes(1)
+DISTANCE: ?
+PATH: SORRY - can't reach destination city from start city.
+
+TRACE OF TARGETS: ...
+# TARGETS: ...
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Danville(3) TO Glendale(6)
+DISTANCE: 67
+PATH: Danville Cranbrook FallsRock Barnes Alto Glendale  
+
+TRACE OF TARGETS: Danville Cranbrook FallsRock Cranbrook Barnes  Glendale
+# TARGETS: 6
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Glendale(6) TO Danville(3)
+DISTANCE: 33
+PATH: Glendale Barnes FallsRock Cranbrook Alto Danville  
+
+TRACE OF TARGETS: Glendale Cranbrook FallsRock Cranbrook  Danville
+# TARGETS: 5
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Barnes(1) TO FallsRock(5)
+DISTANCE: 4
+PATH: Barnes Glendale FallsRock  
+
+TRACE OF TARGETS: Barnes Glendale  FallsRock
+# TARGETS: 2
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   
+
+Alto(0) TO Alto(0)
+DISTANCE: 0
+PATH:  
+
+TRACE OF TARGETS: Alto  Alto
+# TARGETS: 0
+#  #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   

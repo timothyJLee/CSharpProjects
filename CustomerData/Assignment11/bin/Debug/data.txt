@@ -1,0 +1,7 @@
+john doe;52;member
+jane doe;23;visitor
+stephanie wolphcolphman;20;member
+desmond weindorf;24;visitor
+tim lee;22;member
+caleb;28;member
+john;21;member

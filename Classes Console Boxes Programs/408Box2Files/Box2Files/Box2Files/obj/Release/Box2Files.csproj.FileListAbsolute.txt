@@ -1,0 +1,28 @@
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box2Files\bin\Release\Box2Files.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box2Files\bin\Release\Box2Files.pdb
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS282  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs for 12 7 09\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS282  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs for 12 7 09\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\408Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\408Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\bin\Release\Box2Files.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\408Box2Files\Box2Files\Box2Files\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\408Box2Files\Box2Files\Box2Files\obj\Release\Box2Files.pdb

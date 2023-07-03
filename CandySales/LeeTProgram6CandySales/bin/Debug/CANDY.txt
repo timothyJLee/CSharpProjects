@@ -1,0 +1,7 @@
+123, Chews, Pound, 15.40
+456, Nuts, ½ Pound, 7.50
+789, Crisps, ½ Pound, 8.49
+012, Bars, 6 oz, 5.99
+345, Bon Bons, Each, 3.99
+678, Truffles, Each, 4.99
+901, Creams, Pound, 14.99

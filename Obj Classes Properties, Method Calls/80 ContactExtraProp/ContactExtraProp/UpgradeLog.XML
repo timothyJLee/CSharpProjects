@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ContactExtraProp">
+</Property><Property Name="Solution File" Value="C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\ContactExtraProp.sln">
+</Property><Property Name="User Options File" Value="C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\ContactExtraProp.suo">
+</Property><Property Name="Date" Value="Saturday, November 17, 2012">
+</Property><Property Name="Time" Value="19:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ContactExtraProp.sln" Description="File successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ContactExtraProp.suo" Description="File successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp.suo">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\ContactExtraProp.csproj" Description="Project file successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp\ContactExtraProp.csproj">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\ContactExtraProp.csproj.user" Description="Project user file successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp\ContactExtraProp.csproj.user">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\Contact.cs" Description="File successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp\Contact.cs">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\Program.cs" Description="File successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp\Program.cs">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE  C# 4 Obj Classes Properties, Method Calls w12\80 ContactExtraProp\ContactExtraProp\Backup\ContactExtraProp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\ContactExtraProp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ContactExtraProp" Source="ContactExtraProp\ContactExtraProp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ContactExtraProp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ContactExtraProp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ContactExtraProp" Source="ContactExtraProp\ContactExtraProp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

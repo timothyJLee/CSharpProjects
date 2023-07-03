@@ -1,0 +1,10 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\bin\Debug\ItemRecursiveSortAssign1TLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\bin\Debug\ItemRecursiveSortAssign1TLee.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.DisplayFileForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.csproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.csprojResolveAssemblyReference.cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Assignments\Assignment1TIMOTHYLEE\Assignment1TIMOTHYLEE\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Assignments\Assignment1TIMOTHYLEE\Assignment1TIMOTHYLEE\ItemRecursiveSortAssign1TLee\ItemRecursiveSortAssign1TLee\obj\x86\Debug\ItemRecursiveSortAssign1TLee.pdb

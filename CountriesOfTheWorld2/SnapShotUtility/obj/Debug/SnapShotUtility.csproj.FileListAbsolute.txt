@@ -1,0 +1,8 @@
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\bin\Debug\SnapShotUtility.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\bin\Debug\SharedClassLibrary.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\bin\Debug\SharedClassLibrary.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\obj\Debug\SnapShotUtility.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\obj\Debug\SnapShotUtility.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\bin\Debug\SnapShotUtility.dll.config
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\bin\Debug\SnapShotUtility.dll
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\CountriesOfTheWorldA2\SnapShotUtility\obj\Debug\SnapShotUtility.dll

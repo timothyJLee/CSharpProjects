@@ -1,0 +1,35 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.ItemInputForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.csproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.pdb
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.exe
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.pdb
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.exe
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.pdb
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.ItemInputForm.resources
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.Properties.Resources.resources
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Advanced C# Programming\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.exe
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.pdb
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.exe
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.pdb
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.ItemInputForm.resources
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.Properties.Resources.resources
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.exe
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.pdb
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.ItemInputForm.resources
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.Properties.Resources.resources
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.csproj.GenerateResource.Cache
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.exe
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\bin\Debug\UserInputItemAssignment0TLee.pdb
+H:\Advanced C# Programming\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.csprojResolveAssemblyReference.cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Assignments\Assignment0TIMOTHYLEE\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Assignments\Assignment0TIMOTHYLEE\Assignment0TIMOTHYLEE\UserInputItemAssignment0TLee\UserInputItemAssignment0TLee\obj\x86\Debug\UserInputItemAssignment0TLee.pdb

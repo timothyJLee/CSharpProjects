@@ -1,0 +1,5 @@
+.\bin\Debug\MakeChange.exe
+.\bin\Debug\MakeChange.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MakeChange.exe
+obj\Debug\MakeChange.pdb

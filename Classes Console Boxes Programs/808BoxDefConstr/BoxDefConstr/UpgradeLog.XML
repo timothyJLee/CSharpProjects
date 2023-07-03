@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BoxDefConstr">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\BoxDefConstr.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\BoxDefConstr.suo">
+</Property><Property Name="Date" Value="Monday, November 07, 2011">
+</Property><Property Name="Time" Value="21:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BoxDefConstr.sln" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BoxDefConstr.suo" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr.suo">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\BoxDefConstr.csproj" Description="Project file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr\BoxDefConstr.csproj">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\BoxDefConstr.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr\BoxDefConstr.csproj.user">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\Box.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr\Box.cs">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\Program.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr\Program.cs">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\808BoxDefConstr\BoxDefConstr\Backup\BoxDefConstr\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\BoxDefConstr.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BoxDefConstr" Source="BoxDefConstr\BoxDefConstr.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BoxDefConstr.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BoxDefConstr.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BoxDefConstr" Source="BoxDefConstr\BoxDefConstr.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

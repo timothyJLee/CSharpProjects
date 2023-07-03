@@ -1,0 +1,27 @@
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box3Objects\bin\Release\Box3Objects.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box3Objects\bin\Release\Box3Objects.pdb
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\kaminski\Local Settings\Application Data\Temporary Projects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box3Objects\Box3Objects\Box3Objects\bin\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\C# CLASS\8Box3Objects\Box3Objects\Box3Objects\bin\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CLASSES     C# Classes Console BOXES Programs APRIL 19\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 3 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 3 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\bin\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\bin\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\bin\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\bin\Release\Box3Objects.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207 vS 2010  fall 2011\C# 2 Classes Console BOXES Programs\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\Folder Collection\CONSOLE C# 2 Classes Console BOXES Programs F12\608Box3Objects\Box3Objects\Box3Objects\obj\Release\Box3Objects.pdb

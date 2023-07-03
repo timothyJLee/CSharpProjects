@@ -1,0 +1,71 @@
+" ________" +
+"|                |" +
+"|      @      |" +
+"|                |" +
+"+----------+" +
+ ________
+|  @          |
+|                |
+|          @  |
++----------+
+
+ ________
+|  @          |
+|      @      |
+|           @ |
++----------+
+
+ ________
+|  @      @ |
+|                |
+|   @     @ |
++----------+
+
+ ________
+|  @      @ |
+|       @      |
+|  @      @ |
++----------+
+
+ ________
+|  @     @  |
+|  @     @  |
+|  @     @  |
++----------+
+
+
+" ________" + Environment.NewLine +
+                                    "|                |" + Environment.NewLine +
+                                    "|      @      |" + Environment.NewLine +
+                                    "|                |" + Environment.NewLine +
+                                    "+-------------+";
+
+" ________" + Environment.NewLine +
+                                    "|  @          |" + Environment.NewLine +
+                                    "|                |" + Environment.NewLine +
+                                    "|          @  |" + Environment.NewLine +
+                                    "+-------------+";
+
+" ________" + Environment.NewLine +
+                                    "|  @          |" + Environment.NewLine +
+                                    "|      @      |" + Environment.NewLine +
+                                    "|           @ |" + Environment.NewLine +
+                                    "+-------------+";
+
+" ________" + Environment.NewLine +
+                                    "|  @      @ |" + Environment.NewLine +
+                                    "|                |" + Environment.NewLine +
+                                    "|  @      @ |" + Environment.NewLine +
+                                    "+-------------+";
+
+" ________" + Environment.NewLine +
+                                    "|  @      @ |" + Environment.NewLine +
+                                    "|      @      |" + Environment.NewLine +
+                                    "|  @      @ |" + Environment.NewLine +
+                                    "+-------------+";
+
+" ________" + Environment.NewLine +
+                                    "|  @      @  |" + Environment.NewLine +
+                                    "|  @      @  |" + Environment.NewLine +
+                                    "|  @      @  |" + Environment.NewLine +
+                                    "+-------------+";

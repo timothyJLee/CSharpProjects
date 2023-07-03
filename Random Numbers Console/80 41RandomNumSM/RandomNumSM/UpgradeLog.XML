@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RandomNumSM">
+</Property><Property Name="Solution File" Value="C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\RandomNumSM.sln">
+</Property><Property Name="User Options File" Value="C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\RandomNumSM.suo">
+</Property><Property Name="Date" Value="Wednesday, October 31, 2012">
+</Property><Property Name="Time" Value="7:20 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RandomNumSM.sln" Description="File successfully backed up as C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\Backup\RandomNumSM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RandomNumSM.suo" Description="File successfully backed up as C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\Backup\RandomNumSM.suo">
+</Event><Event ErrorLevel="0" Project="RandomNumSM" Source="RandomNumSM\RandomNumSM.csproj" Description="Project file successfully backed up as C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\Backup\RandomNumSM\RandomNumSM.csproj">
+</Event><Event ErrorLevel="0" Project="RandomNumSM" Source="RandomNumSM\RandomNumSM.csproj.user" Description="Project user file successfully backed up as C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\Backup\RandomNumSM\RandomNumSM.csproj.user">
+</Event><Event ErrorLevel="0" Project="RandomNumSM" Source="RandomNumSM\Program.cs" Description="File successfully backed up as C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\Backup\RandomNumSM\Program.cs">
+</Event><Event ErrorLevel="0" Project="RandomNumSM" Source="RandomNumSM\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\dpantaleo\Desktop\COPY WED 10 31\C# 8 Random Numbers Console Apps\80 41RandomNumSM\RandomNumSM\Backup\RandomNumSM\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RandomNumSM" Source="RandomNumSM\RandomNumSM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RandomNumSM" Source="RandomNumSM\RandomNumSM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RandomNumSM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RandomNumSM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RandomNumSM" Source="RandomNumSM\RandomNumSM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

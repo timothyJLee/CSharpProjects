@@ -1,0 +1,4 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\Exam1ConsoleTimothyLee\Exam1ConsoleTimothyLee\bin\Debug\Exam1ConsoleTimothyLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\Exam1ConsoleTimothyLee\Exam1ConsoleTimothyLee\bin\Debug\Exam1ConsoleTimothyLee.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\Exam1ConsoleTimothyLee\Exam1ConsoleTimothyLee\obj\x86\Debug\Exam1ConsoleTimothyLee.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\AdvancedC#WINTER2013\Projects\Exam1ConsoleTimothyLee\Exam1ConsoleTimothyLee\obj\x86\Debug\Exam1ConsoleTimothyLee.pdb

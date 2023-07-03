@@ -1,0 +1,27 @@
+Combine,1700.00
+Oxen,175.00
+Hand Plow,50.00
+Mule,300.00
+Tiller,1700.00
+Tractor,4500.00
+Plow,4500.00
+Grain cleaner,300.00
+Bulldozer,1700.00
+Truck,1250.00
+Baler,500.00
+Stone Digger,4500.00
+Trailer,500.00
+ChainSaw,50.00
+Post Hold digger,175.00 
+Potato harvester,1250.00  
+Rake,50.00
+Reaper,1000.00
+Reaper-binder,1500.00
+Rice huller,1300.00
+Scythe,175.00
+Sickle,575.00 
+Silage trailer,1500.00 
+Sugarcane harvester,1700.00
+Swather,4500.00
+Thresher,1700.00
+Wagon,1200.00

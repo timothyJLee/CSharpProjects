@@ -1,0 +1,8 @@
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\bin\Debug\LeeTProgram2WaterPark.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\bin\Debug\LeeTProgram2WaterPark.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\obj\x86\Debug\LeeTProgram2WaterPark.CustomerOrderForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\obj\x86\Debug\LeeTProgram2WaterPark.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\obj\x86\Debug\LeeTProgram2WaterPark.csproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\obj\x86\Debug\LeeTProgram2WaterPark.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\obj\x86\Debug\LeeTProgram2WaterPark.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\LeeTProgram2WaterPark\LeeTProgram2WaterPark\obj\x86\Debug\LeeTProgram2WaterPark.csprojResolveAssemblyReference.cache

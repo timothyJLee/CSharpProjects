@@ -1,0 +1,71 @@
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Documents and Settings\dpantaleo\My Documents\Visual Studio 2010\Projects\C Ch910 Inclass Payroll Program\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Documents and Settings\dpantaleo\Desktop\copy monday 3 26\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Documents and Settings\dpantaleo\Desktop\copy monday 3 26\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dpantaleo\Documents\CIS 207 vS 2010  fall 2011\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program ORIG\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+O:\COPY 11 12 2012\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 12\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program 11 14\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.GetDataForm.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dpantaleo\Desktop\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.OutputForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\bin\Debug\C Ch910 Inclass Payroll Program.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.GetDataForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.OutputForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.PayrollClassesForm.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C_Ch910_Inclass_Payroll_Program.Properties.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1353789002\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.csproj.GenerateResource.Cache
+F:\C#\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.exe
+F:\C#\C Ch910 Inclass Payroll Program MULT FORMS CLASS 11 19\C Ch910 Inclass Payroll Program\obj\x86\Debug\C Ch910 Inclass Payroll Program.pdb

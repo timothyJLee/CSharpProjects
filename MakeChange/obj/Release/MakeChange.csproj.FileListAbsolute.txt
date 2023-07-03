@@ -1,0 +1,19 @@
+C:\Documents and Settings\kaminski\Desktop\MakeChange\bin\Release\MakeChange.exe
+C:\Documents and Settings\kaminski\Desktop\MakeChange\bin\Release\MakeChange.pdb
+C:\Documents and Settings\kaminski\Desktop\MakeChange\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kaminski\Desktop\MakeChange\obj\Release\MakeChange.exe
+C:\Documents and Settings\kaminski\Desktop\MakeChange\obj\Release\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange\MakeChange\obj\Release\MakeChange.exe
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange\MakeChange\obj\Release\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange\MakeChange\bin\Release\MakeChange.exe
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange\MakeChange\bin\Release\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange\MakeChange\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange ClassExercise\MakeChange\obj\Release\MakeChange.exe
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange ClassExercise\MakeChange\obj\Release\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange ClassExercise\MakeChange\bin\Release\MakeChange.exe
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange ClassExercise\MakeChange\bin\Release\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\Desktop\CIS 282 C# Console Applications\3MakeChange ClassExercise\MakeChange\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dpantaleo\My Documents\CIS282  C# Programming\CIS 282 C# Console Applications fIRST sET\3MakeChange ClassExercise\MakeChange\obj\Release\MakeChange.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS282  C# Programming\CIS 282 C# Console Applications fIRST sET\3MakeChange ClassExercise\MakeChange\obj\Release\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CIS 282 C# Console Applications fIRST sET\3MakeChange Class Exercise\MakeChange\obj\Release\MakeChange.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS207  C# Programming\C CONSOLE PROGRAM FOLDERS\CIS 282 C# Console Applications fIRST sET\3MakeChange Class Exercise\MakeChange\obj\Release\MakeChange.pdb

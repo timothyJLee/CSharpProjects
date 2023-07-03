@@ -1,0 +1,6 @@
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A6\WorldDataBaseA6\WorldDataBaseA6\bin\Debug\WorldDataBaseA6.exe.config
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A6\WorldDataBaseA6\WorldDataBaseA6\bin\Debug\WorldDataBaseA6.exe
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A6\WorldDataBaseA6\WorldDataBaseA6\bin\Debug\WorldDataBaseA6.pdb
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A6\WorldDataBaseA6\WorldDataBaseA6\obj\Debug\WorldDataBaseA6.csprojResolveAssemblyReference.cache
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A6\WorldDataBaseA6\WorldDataBaseA6\obj\Debug\WorldDataBaseA6.exe
+C:\Users\timmy_000\Documents\Visual Studio 2012\Projects\A6\WorldDataBaseA6\WorldDataBaseA6\obj\Debug\WorldDataBaseA6.pdb

@@ -1,0 +1,21 @@
+C:\Documents and Settings\kaminski\Desktop\MakeChange\obj\Debug\MakeChange.exe
+C:\Documents and Settings\kaminski\Desktop\MakeChange\obj\Debug\MakeChange.pdb
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 1 Console Applications fIRST sET\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.exe
+C:\Documents and Settings\dpantaleo\My Documents\CIS 207  C# Programming\C CONSOLE PROGRAM FOLDERS\C# 1 Console Applications fIRST sET\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.pdb
+C:\Users\dpantaleo.KVCC\Desktop\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.exe
+C:\Users\dpantaleo.KVCC\Desktop\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.pdb
+O:\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.exe
+O:\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.pdb
+O:\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\bin\Debug\MakeChange.exe
+O:\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\bin\Debug\MakeChange.pdb
+O:\C# CONSOLE SIMPLE CALCS\3MakeChange Class Exercise\MakeChange\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1350086193\C# CONSOLE SIMPLE CALCS #1 f12\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1350086193\C# CONSOLE SIMPLE CALCS #1 f12\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1350086193\C# CONSOLE SIMPLE CALCS #1 f12\3MakeChange Class Exercise\MakeChange\bin\Debug\MakeChange.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\ClassExamples\1350086193\C# CONSOLE SIMPLE CALCS #1 f12\3MakeChange Class Exercise\MakeChange\bin\Debug\MakeChange.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\3MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\3MakeChange Class Exercise\MakeChange\bin\Debug\MakeChange.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\3MakeChange Class Exercise\MakeChange\bin\Debug\MakeChange.pdb
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.exe
+C:\Users\judy\Desktop\School\CompSci\C# Programming\Assignments\MakeChange Class Exercise\MakeChange\obj\Debug\MakeChange.pdb
